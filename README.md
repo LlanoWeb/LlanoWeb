@@ -1,4 +1,4 @@
-# Empresa de Desarrollo Web
+# Empresa de Desarrollo de Software
 
 ## Sobre Nosotros
 
